@@ -14,6 +14,11 @@
     		"Freshbitsweb\\LaravelLogEnhancer\\":"src/"
     	}
     },
-    "extra":{},
+    "extra":{
+    	"laravel":{
+    		"providers":["Freshbitweb\\LaravelLogEnhancer\\LaravelLogEnhancerServiceProvider"]
+    	}
+    }
+
 
 }
