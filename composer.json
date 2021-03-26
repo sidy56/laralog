@@ -19,5 +19,9 @@
     		"providers":["Freshbitweb\\LaravelLogEnhancer\\LaravelLogEnhancerServiceProvider"]
     	}
     }
+<<<<<<< HEAD
+=======
+
+>>>>>>> b7326013934c82588df0586950b5656bbb5f1f19
 
 }
