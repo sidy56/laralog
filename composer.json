@@ -18,7 +18,8 @@
     	"laravel":{
     		"providers":["Freshbitweb\\LaravelLogEnhancer\\LaravelLogEnhancerServiceProvider"]
     	}
-    }
+    },
+     "prefer-stable": true
 
 
 }
